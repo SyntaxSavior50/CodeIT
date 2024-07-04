@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803778635482",
+    "project_id": "codeIT",
+    "storage_bucket": "codeIT.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803778635482:android:c9789a28e5db6dedb527e3",
+        "android_client_info": {
+          "package_name": "com.example.realpalooza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLlTQP71f_AztY_GbmCehRGb-_5ORsvRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

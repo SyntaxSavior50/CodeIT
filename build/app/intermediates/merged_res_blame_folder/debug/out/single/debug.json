@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\sadma\\.gradle\\daemon\\7.5\\com.example.realpalooza.app-merged_res-49:\\drawable-v21_launch_background.xml.flat",
+        "source": "C:\\Users\\sadma\\.gradle\\daemon\\7.5\\com.example.realpalooza.app-main-43:\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sadma\\.gradle\\daemon\\7.5\\com.example.realpalooza.app-merged_res-49:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sadma\\.gradle\\daemon\\7.5\\com.example.realpalooza.app-main-43:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.example.realpalooza.app-merged_res-49:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.realpalooza.app-main-43:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sadma\\.gradle\\daemon\\7.5\\com.example.realpalooza.app-merged_res-49:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sadma\\.gradle\\daemon\\7.5\\com.example.realpalooza.app-main-43:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sadma\\.gradle\\daemon\\7.5\\com.example.realpalooza.app-merged_res-49:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sadma\\.gradle\\daemon\\7.5\\com.example.realpalooza.app-main-43:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.example.realpalooza.app-merged_res-49:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.realpalooza.app-main-43:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.realpalooza.app-merged_res-49:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.realpalooza.app-main-43:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sadma\\.gradle\\daemon\\7.5\\com.example.realpalooza.app-merged_res-49:\\mipmap-xxxhdpi_ic_lancher.png.flat",
+        "source": "C:\\Users\\sadma\\.gradle\\daemon\\7.5\\com.example.realpalooza.app-main-43:\\mipmap-xxxhdpi\\ic_lancher.png"
+    },
+    {
+        "merged": "C:\\Users\\sadma\\.gradle\\daemon\\7.5\\com.example.realpalooza.app-merged_res-49:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sadma\\.gradle\\daemon\\7.5\\com.example.realpalooza.app-main-43:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sadma\\.gradle\\daemon\\7.5\\com.example.realpalooza.app-merged_res-49:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sadma\\.gradle\\daemon\\7.5\\com.example.realpalooza.app-main-43:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.example.realpalooza.app-merged_res-49:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.realpalooza.app-main-43:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.realpalooza.app-merged_res-49:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.realpalooza.app-main-43:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sadma\\.gradle\\daemon\\7.5\\com.example.realpalooza.app-merged_res-49:\\drawable_app_icop.png.flat",
+        "source": "C:\\Users\\sadma\\.gradle\\daemon\\7.5\\com.example.realpalooza.app-main-43:\\drawable\\app_icop.png"
+    }
+]

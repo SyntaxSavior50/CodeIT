@@ -1,0 +1,1 @@
+ D:\\CodePalooza11\\.dart_tool\\flutter_build\\786477a32b78a3aa16e60cf20162b992\\native_assets.yaml: 
